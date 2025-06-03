@@ -10,4 +10,6 @@ Used to inject [this](https://github.com/NatsukashiiOwU/Vencord) fork using defa
 
 ![image](https://github.com/user-attachments/assets/544016dd-0580-4ec7-b427-71bb915ad878)
 
-5. ![image](https://github.com/user-attachments/assets/8a18b7dc-acda-440e-91a4-b0f32230a55d)
+5.
+
+![image](https://github.com/user-attachments/assets/8a18b7dc-acda-440e-91a4-b0f32230a55d)
