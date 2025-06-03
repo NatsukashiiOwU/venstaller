@@ -228,14 +228,7 @@ function Run-Installer {
 
 # Main execution
 Write-Host @"
-    
-███████╗███████╗███╗   ██╗ ██████╗ ██████╗ ██████╗ 
-██╔════╝██╔════╝████╗  ██║██╔═══██╗██╔══██╗██╔══██╗
-█████╗  █████╗  ██╔██╗ ██║██║   ██║██████╔╝██║  ██║
-██╔══╝  ██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗██║  ██║
-███████╗███████╗██║ ╚████║╚██████╔╝██║  ██║██████╔╝
-╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ 
-                                                   
+
  Custom Vencord Injection Script
  Vencord Repo: https://github.com/$VencordRepo
  Installer Repo: https://github.com/$InstallerRepo
